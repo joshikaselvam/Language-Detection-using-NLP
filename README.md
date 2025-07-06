@@ -2,7 +2,7 @@
 
 This project demonstrates how to detect the **language of a given text** using machine learning and natural language processing (NLP) techniques. Implemented using Python in **Google Colab**, it leverages TF-IDF vectorization and a classification model to identify the language.
 
-[🔗 View Notebook on Colab](https://colab.research.google.com/github/joshikaselvam/Language-Detection-using-NLP/blob/main/Language_detection.ipynb)
+[🔗 Open in Colab](https://colab.research.google.com/github/joshikaselvam/Language-Detection-using-NLP/blob/main/Language_detection.ipynb)
 
 ---
 
