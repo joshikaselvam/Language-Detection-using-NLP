@@ -4,6 +4,7 @@ This project demonstrates how to detect the **language of a given text** using m
 
 [🔗 Open in Colab](https://colab.research.google.com/github/joshikaselvam/Language-Detection-using-NLP/blob/main/Language_detection.ipynb)
 
+
 ---
 
 ## 📌 Project Overview
