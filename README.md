@@ -26,7 +26,7 @@ This project demonstrates how to detect the **language of a given text** using m
    Clean and normalize the text (lowercasing, removing punctuation, etc.)
 
 2. **Feature Extraction**  
-   Use TF-IDF to convert text to numeric features
+   Use Count Vectorizer  to convert text to numeric features
 
 3. **Model Training**  
    Train a Multinomial Naive Bayes classifier on labeled multilingual data
