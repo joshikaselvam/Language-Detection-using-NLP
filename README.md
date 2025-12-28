@@ -14,7 +14,7 @@ This project demonstrates how to detect the **language of a given text** using m
 - 📚 **Tech Stack**: Python, Scikit-learn, Pandas, Google Colab
 - 📊 **Features**: 
   - Text preprocessing
-  - TF-IDF vectorization
+  - Count vectorization
   - Model training and testing
   - Evaluation using accuracy and confusion matrix
 
